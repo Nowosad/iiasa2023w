@@ -1,10 +1,13 @@
 # R-Spatial workshop at IIASA 2023
 
+<!-- Create a image of a beautiful landscape with a few old-style computers shown somewhere in the background of the picture [MircoRealism; StableDiffusion XL]-->
+![](im.png)
+
 *02-10-2023 at 13:30 in Raiffa Room*
 
 Instructor: [Jakub Nowosad](https://jakubnowosad.com/iiasa2023/#/hello-i-am-jakub)
 
-Ask a question: https://oneask.app/e/iiasa2023 
+Ask a question: <https://oneask.app/e/iiasa2023>
 
 ### Prerequisites
 
