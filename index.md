@@ -9,7 +9,7 @@ Instructor: [Jakub Nowosad](https://jakubnowosad.com/iiasa2023/#/hello-i-am-jaku
 
 Website: <https://jakubnowosad.com/iiasa2023w>
 
-Ask a question: <https://oneask.app/e/iiasa2023>
+<!--Ask a question: <https://oneask.app/e/iiasa2023>-->
 
 ### Prerequisites
 
@@ -32,5 +32,12 @@ Additional resources:
 
 - [Geocomputation with R: Making maps with R](https://r.geocompx.org/adv-map)
 - [GIS and mapping: A lecture on on the GIS and mapping ecosystem of R](https://jakubnowosad.com/SIGR2021/lecture/lecture.html#9)
+- []() <!--geocompx.org/ blog post-->
+- []() <!--coord-->
+- [Switch from shapefile](http://switchfromshapefile.org/)
 - [Image processing and all things raster](https://jakubnowosad.com/SIGR2021/workshop2/workshop2.html)
 
+Code examples:
+
+- [Vector data](vector_code.R)
+- [Raster data](raster code.R)
