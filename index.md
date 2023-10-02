@@ -7,6 +7,8 @@
 
 Instructor: [Jakub Nowosad](https://jakubnowosad.com/iiasa2023/#/hello-i-am-jakub)
 
+Website: <https://jakubnowosad.com/iiasa2023w>
+
 Ask a question: <https://oneask.app/e/iiasa2023>
 
 ### Prerequisites
