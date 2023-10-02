@@ -31,6 +31,6 @@ Main resource:
 Additional resources:
 
 - [Geocomputation with R: Making maps with R](https://r.geocompx.org/adv-map)
-- [GIS and mapping: A lecture on on the GIS and mapping ecosystem of R](https://jakubnowosad.com/SIGR2021/lecture/lecture.html#1)
+- [GIS and mapping: A lecture on on the GIS and mapping ecosystem of R](https://jakubnowosad.com/SIGR2021/lecture/lecture.html#9)
 - [Image processing and all things raster](https://jakubnowosad.com/SIGR2021/workshop2/workshop2.html)
 
